@@ -1,0 +1,44 @@
+WEB TECHNOLOGY LABORATORY
+HTML5 EXPERIMENT LIST
+
+1. Basic HTML Document Structure:
+Objective: Understand and create the basic structure of an HTML document (doctype, html,
+head, title, body).
+Task: Create a simple HTML page with headers, paragraphs, links, and images.
+2. Forms and Input Elements:
+Objective: Learn how to create forms and use different input elements.
+Task: Design a registration form for a website, including text fields, password fields, radio
+buttons, checkboxes, and a submit button.
+3. CSS Integration with HTML:
+Objective: Understand how to style HTML elements using CSS (both inline and external
+stylesheets).
+Task: Create an HTML document and use CSS to style it, focusing on layout techniques,
+colors, and fonts.
+4. Responsive Web Design with HTML5 and CSS3:
+Objective: Learn the principles of responsive web design to make web pages look good on all
+devices.
+Task: Use CSS media queries to create a web page that adjusts to different screen sizes.
+5. Using Multimedia Elements in HTML5:
+Objective: Explore the use of multimedia elements (audio, video) in HTML5.
+Task: Embed an audio file and a video file into an HTML document, including controls and
+different source formats for compatibility.
+6. HTML5 Canvas for Graphics:
+Objective: Understand how to use the HTML5 canvas element for drawing graphics.
+Task: Use the canvas element to draw shapes, set colors, and apply basic animations.
+
+7. HTML5 Geolocation API:
+Objective: Learn how to use the Geolocation API to get the user's current location.
+Task: Create a simple application that retrieves the user’s current location and displays it on a
+map.
+8. Local Storage and Session Storage in HTML5:
+Objective: Explore the use of Web Storage API for storing data locally within the user's
+browser.
+Task: Create a to-do list application that uses local storage to save tasks between sessions.
+9. Implementing Drag and Drop with HTML5:
+Objective: Learn how to implement drag and drop features using HTML5.
+Task: Create an interactive application that allows users to drag and drop items between
+different containers.
+10. HTML5 Web Workers:
+Objective: Understand how to use Web Workers to run scripts in background threads.
+Task: Develop a simple application that uses a web worker to perform a time-consuming
+calculation without freezing the user interface.
